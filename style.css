@@ -1,0 +1,8 @@
+.btn-outline-secondary{
+    width: 40px;
+    background-color: rgb(32, 172, 74);
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
